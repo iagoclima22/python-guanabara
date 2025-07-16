@@ -1,6 +1,6 @@
 # 🐍 Exercícios Python - Curso em Vídeo
 
-Este repositório é dedicado aos exercícios realizados durante os cursos de **Python** do professor **Gustavo Guanabara**, do canal [Curso em Vídeo](https://www.youtube.com/@CursoemVideo).
+Este repositório é dedicado aos exercícios realizados durante os cursos de **Python** do professor **Gustavo Guanabara**, do canal [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo).
 
 ---
 
